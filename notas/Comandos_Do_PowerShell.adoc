@@ -41,7 +41,7 @@ link:https://notepad-plus-plus.org/downloads/[Notepad++] é uma versao do bloco 
 Este comando só funciona se o notepad++ estiver instalado 
 na maquina e acessivel via linha de comando.
 
-note> Para ser acessivel via qualquer lugar da linha de comando a variavel de ambiente `PATH` 
+NOTE: Para ser acessivel via qualquer lugar da linha de comando a variavel de ambiente `PATH` 
 deve estar configurada com o diretorio onde o executavel do notepad++ pode ser encontrado.
 
-note> Caso opte por instalar o notepad++, procure sempre baixar do site oficial: https://notepad-plus-plus.org/downloads/ 
+NOTE: Caso opte por instalar o notepad++, procure sempre baixar do site oficial: https://notepad-plus-plus.org/downloads/ 
