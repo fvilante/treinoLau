@@ -1,0 +1,47 @@
+
+= Comandos do Powershell
+
+Powershell é a linha de comando moderna do Windows. Procure ter instalado a versao 5.1 do PS.
+
+O windows 10 já vem com a versao 5.1, porem versoes anteriores do windows como Windows 7 e Windows 8 
+vem instalados com a versao 4 do Powershell. Neste caso atualize o PS para a versao 5.1.
+
+Para verificar qual a versao do seu Powershell, acesse a linha de comando do Powershell e digite 
+`$PSVersionTable.PSVersion`.
+
+Voce devera ver um resultado semelhante a este:
+
+```
+Major  Minor  Build  Revision
+-----  -----  -----  --------
+5      1      14409  1018
+``` 
+
+
+== cat `nome_do_arquivo`
+
+Motra arquivo na tela
+
+
+== `dir`
+
+Lista diretorio atual
+
+== ts-node [`nome_do_arquivo`]
+
+Executa um codigo-fonte escrito em Typescript
+
+== notepad [`nome_do_arquivo`]
+
+Abre bloco de notas. Caso arquivo nao exista cria. 
+
+== notepad++ [`nome_do_arquivo`]
+
+link:https://notepad-plus-plus.org/downloads/[Notepad++] é uma versao do bloco de notas melhorada. 
+Este comando só funciona se o notepad++ estiver instalado 
+na maquina e acessivel via linha de comando.
+
+note> Para ser acessivel via qualquer lugar da linha de comando a variavel de ambiente `PATH` 
+deve estar configurada com o diretorio onde o executavel do notepad++ pode ser encontrado.
+
+note> Caso opte por instalar o notepad++, procure sempre baixar do site oficial: https://notepad-plus-plus.org/downloads/ 
