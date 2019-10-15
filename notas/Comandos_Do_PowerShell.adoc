@@ -37,7 +37,7 @@ Abre bloco de notas. Caso arquivo nao exista cria.
 
 == notepad++ [`nome_do_arquivo`]
 
-https://notepad-plus-plus.org/downloads/[Notepad++] é uma versao do bloco de notas melhorada. 
+https://notepad-plus-plus.org/downloads/[Notepad-mais-mais] é uma versao do bloco de notas melhorada. 
 Este comando só funciona se o notepad++ estiver instalado 
 na maquina e acessivel via linha de comando.
 
