@@ -1,6 +1,6 @@
 
 // URIs:
-:rootdir: https://github.com/fvilante/treinoLau
+:rootdir: https://github.com/fvilante/treinoLau/blob/master
 
 Aula 5
 
