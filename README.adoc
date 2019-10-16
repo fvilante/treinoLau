@@ -1,4 +1,7 @@
 
-Teste 123
+// URIs:
+:rootdir: https://github.com/asciidoctor
 
-include::https://raw.githubusercontent.com/asciidoctor/asciidoctor/master/README.adoc[]
+Aula 5
+
+include::{rootdir}/conversa5/conteudo.adoc[]
