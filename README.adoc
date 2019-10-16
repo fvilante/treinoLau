@@ -1,0 +1,4 @@
+
+Teste 123
+
+include::https://raw.githubusercontent.com/asciidoctor/asciidoctor/master/README.adoc[]
