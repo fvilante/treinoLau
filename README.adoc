@@ -2,6 +2,4 @@
 // URIs:
 :rootdir: https://github.com/fvilante/treinoLau/blob/master
 
-Aula 5
-
-include::{rootdir}/conversa5/conteudo.adoc[]
+TBD
