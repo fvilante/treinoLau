@@ -1,0 +1,39 @@
+
+= Conteudo 
+
+== PowerShell
+
+- O que é o PowerShell
+- Qual a relação do Powershell com o sistema operacional
+- Como iniciar o PowerShell no seu PC
+- O que é o _prompt_ do PowerShell
+- Como é o mecanismo dele de execucao e busca de comandos do PowerShell
+- Para verificar a versao do powershell instalado na sua maquina digite o comando `$PSVersionTable.PSVersion`
+
+O resultdo deverá ser algo semelhante a isto:
+
+----
+
+PS C:\> $PSVersionTable.PSVersion
+
+Major  Minor  Build  Revision
+-----  -----  -----  --------
+4      0      -1     -1
+
+----
+
+
+- A versao de Powershell que utilizaremos será a `5.1`
+
+NOTE: O windows 10 normalmente já vem com a versao 5.1 porém windows 7 e 8 vem com a versao 4.0 do PS. Neste caso voce precisará fazer o _upgrade_ do PowerShell que está no seu computador. Existem alguns tutoriais e videos na internet indicando como fazer isto, como por exemplo https://docs.microsoft.com/en-us/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-windows-powershell-5-1[este daqui].
+
+
+
+== Ingles
+
+- Feito uma pesquisa em ingles no google sobre `como verificar a versao do PowerShell via linha de comando`:
+https://stackoverflow.com/questions/1825585/determine-installed-powershell-version[_how to verify version of powershell_]. Cada palavra em ingles foi pronunciada e explicada o significado.
+
+- Também foi falado bem brevemente sobre o site: https://stackoverflow.com/[StackOverflow]. Sobre ele ser uma
+boa fonte para encontrar respostas a perguntas de programacao.
+
