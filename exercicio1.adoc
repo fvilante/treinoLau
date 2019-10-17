@@ -1,0 +1,50 @@
+= Exercicio 1
+
+
+== Objetivo
+
+1. Aprender a configurar o ambiente de programação na própria máquina
+2. Rodar um primeiro programa feito a partir da própria máquina
+3. Aprender buscar informações na internet, e resolver problemas relacionados a computação sem um auxilio externo.
+
+IMPORTANT: 
+----
+
+Computação é uma area que esta constantemente evoluindo. Por isto, a pessoa que trabalha nesta área deve ter a habilidade de buscar e assimilar novas informações.
+
+Para estimular a capacidade do estudante a se virar buscando novas informações, alguns dados de como fazer este exercício serão propositadamente omitidos. 
+
+Ficará a encargo do estudante descobrir as peças do quebra-cabeça que estiverem faltado
+
+----
+
+
+== Dicas de como alcançar o objetivo
+
+1. Instale o programa NODE JS no seu computador
+2. Verifique se voce tem a versao 5.1 do PowerShell
+3. Escreva o seguite programa na linguagem Javascript:
+
+----
+
+// nome do arquivo hello.js
+
+console.log('Hello World')
+
+----
+
+4. Execute o programa atraves do PowerShell, digitando o comando: `node hello.js`
+
+
+Se voce conseguir obter na tela a mensagem `Hello World` voce alcançou o objetivo com sucesso. Me procure para obter as próximas instruções.
+
+Caso voce não consiga de primeira, deverá sem meu auxílio pesquisar e tentar varias formas diferentes de fazer e conseguir o objetivo.
+
+Caso após fazer todas as tentativas que é capaz de imaginar, voce ainda sim nao conseguir chegar ao resultado final, use-me como um _oráculo_, faça-me uma pergunta bem especifica para que eu possa te desencalhar da dificuldade e permitir que voce continue tentando.
+
+Meu objetivo é não dar a resposta final pronta, mas deixar voce descobrir e aprender por conta própria. _Como ja foi dito este tipo de habilidade faz parte do treinamento_
+
+
+
+
+
