@@ -7,16 +7,8 @@
 2. Rodar um primeiro programa feito a partir da própria máquina
 3. Aprender buscar informações na internet, e resolver problemas relacionados a computação sem um auxilio externo.
 
-IMPORTANT: 
-----
+IMPORTANT: Computação é uma area que esta constantemente evoluindo. Por isto, a pessoa que trabalha nesta área deve ter a habilidade de buscar e assimilar novas informações. Para estimular a capacidade do estudante a se virar buscando novas informações, alguns dados de como fazer este exercício serão propositadamente omitidos. Ficará a encargo do estudante descobrir as peças do quebra-cabeça que estiverem faltado
 
-Computação é uma area que esta constantemente evoluindo. Por isto, a pessoa que trabalha nesta área deve ter a habilidade de buscar e assimilar novas informações.
-
-Para estimular a capacidade do estudante a se virar buscando novas informações, alguns dados de como fazer este exercício serão propositadamente omitidos. 
-
-Ficará a encargo do estudante descobrir as peças do quebra-cabeça que estiverem faltado
-
-----
 
 
 == Dicas de como alcançar o objetivo
