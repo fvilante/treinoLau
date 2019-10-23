@@ -1,0 +1,44 @@
+= Nocoes fundamentais de programacao
+
+IMPORTANT: Este documento está em fase de elaboração
+
+== Introducao
+
+As informações aqui presentes visam dar o modelo mental que ajudará o estudante a compreender as leis fundamentais para compreender qualquer linguagem de programação.
+
+
+=== Processador, Memoria e IO
+
+== Conceitos
+
+=== Tipo
+
+- number
+- string
+- array
+- plain object
+
+=== Funcao
+
+- estrutura de uma funcao
+
+- nome da funcao
+- argumentos de entrada (também chamados de parametros de entrada)
+-- tipos dos argumentos de entrada
+- retorno de uma funcao
+
+- funcao pura / funcao impura
+
+- funcao com ou sem efeito-colateral (_side-effect_)
+
+
+=== Funcoes de alta-ordem
+
+Sao funcoes que recebem funcoes como parametros de entrada
+
+- map
+- filter
+- reduce
+
+
+
