@@ -1,9 +1,12 @@
 = Ferramentas fundamentais para uso na programação
 
+IMPORTANT: Este documento está em processo de elaboração. 
 
-- gerenciador de versoes (gitHub)
-- linha-de-comando (ex: powershell, bash)
-- IDE - editor de codigo fonte (ex: `visual code`, `eclipse`) 
+O objetivo deste documento é descrever e informar sobre as principais ferramentas utilizadas pelo programador de softwares.
 
-- compilador (ex: ts-node / node js / typescript)
-- gerenciador de pacotes (ex: npm)
+- gerenciador de versoes (ex: https://github.com/[gitHub])
+- linha-de-comando (ex: https://en.wikipedia.org/wiki/PowerShell[powershell], bash)
+- IDE - editor de codigo fonte (ex: https://code.visualstudio.com/[visual code], `eclipse`) 
+
+- compilador (ex:  / https://nodejs.org/en/[node js] / https://www.typescriptlang.org/[typescript] / https://www.npmjs.com/package/ts-node?activeTab=readme[ts-node])
+- gerenciador de pacotes (ex: https://www.npmjs.com/[npm], chocolatey, apt-get)
