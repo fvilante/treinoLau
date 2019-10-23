@@ -1,0 +1,9 @@
+= Ferramentas fundamentais para uso na programação
+
+
+- gerenciador de versoes (gitHub)
+- linha-de-comando (ex: powershell, bash)
+- IDE - editor de codigo fonte (ex: `visual code`, `eclipse`) 
+
+- compilador (ex: ts-node / node js / typescript)
+- gerenciador de pacotes (ex: npm)
