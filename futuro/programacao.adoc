@@ -11,12 +11,28 @@ As informações aqui presentes visam dar o modelo mental que ajudará o estudan
 
 == Conceitos
 
+- Paradigmas de programacao: Procedural / OOP / Funcional 
+
+- Ciclo de vida de desenvolvimento de codigo: 
+	como um programa é construido desde a concepcao até o uso pelo usuario final
+
+== Glosario de palavras-chave:
+
+- paradigma de programação
+- linguagem de programação
+- codigo-fonte
+- checagem estatica
+- checagem dinamica
+
 === Tipo
 
 - number
 - string
+- literal string e literal number
 - array
 - plain object
+
+- Operacoes com tipos: Union
 
 === Funcao
 
