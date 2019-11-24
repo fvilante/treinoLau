@@ -2,4 +2,4 @@
 // URIs:
 :rootdir: https://github.com/fvilante/treinoLau/blob/master
 
-TBD
+Este material será extraido para SetorA e descontinuado.
